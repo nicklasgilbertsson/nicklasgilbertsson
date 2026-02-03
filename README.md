@@ -33,8 +33,7 @@ Every system, every UI component, every pixel is part of building a world that f
   <!-- Add your screenshots here -->
   <img src="Play1.png" width="45%">
   <img src="Play2.png" width="45%">
-
-  <i>Screenshots coming soon...</i>
+  
 </p>
 
 ---
