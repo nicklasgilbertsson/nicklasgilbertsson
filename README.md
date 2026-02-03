@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.png" alt="Knight's Quest Banner" width="100%">
+  <img src="banner.png" alt="Knight's Quest Banner" width="100%">
 </p>
 
 # 🛡️ Nicklas — Creator of Knight’s Quest
