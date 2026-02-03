@@ -62,7 +62,7 @@ This is the flagship repository containing the full game, UI, logic, and world s
 
 ## 📜 Behind the Scenes
 
-I’m a one‑person studio building Knight’s Quest from scratch:  
+We are a two‑person studio building Knight’s Quest from scratch:  
 UI/UX, game logic, art direction, world‑building, architecture, deployment — everything.  
 It’s indie development in its purest form.
 
@@ -70,7 +70,6 @@ It’s indie development in its purest form.
 
 ## 🧭 What’s Next
 
-- Public launch of Knight’s Quest  
 - Expanded campaign library  
 - Achievement system refinements  
 - World map polish and release  
@@ -81,7 +80,6 @@ It’s indie development in its purest form.
 ## 📫 Connect
 
 - GitHub — You’re already here  
-- Website — (Add when ready)  
-- Email — (Optional)  
+- Website — http://knights-quest.com/
 
 <p align="center">⚔️</p>
